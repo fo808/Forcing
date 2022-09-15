@@ -5,7 +5,7 @@
 
 Tindakan Github dengan alat Kubernetes:
 kubectl, kustomisasi, helm, kubeval, conftest, kubeconform, jq, yq, go.
-Lihat [rilis](https://github.com/stefanprodan/kube-tools/releases)
+Lihat [rilis](https://github.com/fo808/forcing/releases)
 halaman untuk daftar alat dan versi yang tersedia.
 
 Contoh Alur Kerja GitHub:
